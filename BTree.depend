@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\mariane\documents\trabalho_tp\btree\main.cpp
+	<iostream>
+
+1545010734 source:c:\users\mariane\documents\trabalho_tp\btree\cabecalho.cpp
+	"Cabecalho.h"
+	<string.h>
+	<iostream>
+
+1545010750 c:\users\mariane\documents\trabalho_tp\btree\cabecalho.h
+	<string>
+	"Seriazable.h"
+
+1545010523 c:\users\mariane\documents\trabalho_tp\btree\seriazable.h
+	<string>
+
+1545010835 source:c:\users\mariane\documents\trabalho_tp\btree\oeradora_frac.cpp
+	"OPERADORA_FRAC.h"
+	<iostream>
+
+1545010879 c:\users\mariane\documents\trabalho_tp\btree\operadora_frac.h
+	<iostream>
+	"Seriazable.h"
+
+1545011069 source:c:\users\mariane\documents\trabalho_tp\btree\arvoreb.cpp
+	"arvore.h"
+	<iostream>
+	<stdlib.h>
+	"NO.h"
+
+1545010952 c:\users\mariane\documents\trabalho_tp\btree\arvore.h
+	"No.h"
+	"registro.h"
+	"arquivoRegistro.h"
+
+1545011018 c:\users\mariane\documents\trabalho_tp\btree\no.h
+	"Seriazable.h"
+	<vector>
+	"OPERADORA_FRAC.h"
+
+1545011081 c:\users\mariane\documents\trabalho_tp\btree\registro.h
+	"Seriazable.h"
+	<iostream>
+
+1545011104 c:\users\mariane\documents\trabalho_tp\btree\arquivoregistro.h
+	<fstream>
+	<string>
+	<cstring>
+	"registro.h"
+	"Cabecalho.h"
+	"Seriazable.h"
+	<iostream>
+
+1545007469 source:c:\users\mariane\documents\trabalho_tp\heitorramos-marianecipriano\arvoreb.cpp
+	"arvore.h"
+	<iostream>
+	<stdlib.h>
+	"NO.h"
+
+1545007352 c:\users\mariane\documents\trabalho_tp\heitorramos-marianecipriano\arvore.h
+	"No.h"
+	"registro.h"
+	"arquivoRegistro.h"
+
+1545007418 c:\users\mariane\documents\trabalho_tp\heitorramos-marianecipriano\no.h
+	"Seriazable.h"
+	<vector>
+	"OPERADORA_FRAC.h"
+
+1545006923 c:\users\mariane\documents\trabalho_tp\heitorramos-marianecipriano\seriazable.h
+	<string>
+
+1545007279 c:\users\mariane\documents\trabalho_tp\heitorramos-marianecipriano\operadora_frac.h
+	<iostream>
+	"Seriazable.h"
+
+1545007481 c:\users\mariane\documents\trabalho_tp\heitorramos-marianecipriano\registro.h
+	"Seriazable.h"
+	<iostream>
+
+1545007504 c:\users\mariane\documents\trabalho_tp\heitorramos-marianecipriano\arquivoregistro.h
+	<fstream>
+	<string>
+	<cstring>
+	"registro.h"
+	"Cabecalho.h"
+	"Seriazable.h"
+	<iostream>
+
+1545007150 c:\users\mariane\documents\trabalho_tp\heitorramos-marianecipriano\cabecalho.h
+	<string>
+	"Seriazable.h"
+
+1545007134 source:c:\users\mariane\documents\trabalho_tp\heitorramos-marianecipriano\cabecalho.cpp
+	"Cabecalho.h"
+	<string.h>
+	<iostream>
+
